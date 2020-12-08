@@ -1,4 +1,3 @@
 .vs/
-build/*
+src/.vs/
 bin/*
-clean

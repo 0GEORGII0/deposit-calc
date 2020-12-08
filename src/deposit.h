@@ -1,12 +1,12 @@
+#ifndef deposit_h
+#define deposit_h
+
 #include <cstdlib>
 #include <cmath>
 
-using namespace std;
 
-int while1(d) {
-	while (d > 365) {
-		cout << "nelza bolshe" << endl;
-		cin >> d;
 
-	}
-}
+int while1(d);
+int while2(x);
+
+#endif
